@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Alex 👋
 
 <!--
 **alexshires/alexshires** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![alexshires' github stats](https://github-readme-stats.vercel.app/api?username=alexshires&show_icons=true&hide=prs&&count_private=false&theme=default_repocard)
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexshires&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+✧ Homepage: https://shires.me
+
+✧ LinkedIn: https://www.linkedin.com/in/alexshires
+
+✧ Google Scholar: https://scholar.google.com/citations?user=jsBYoa0AAAAJ
